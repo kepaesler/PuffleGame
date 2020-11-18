@@ -1,4 +1,4 @@
-# PuffleGame
+# PuffleWar
 2d multiplayer shooter game inspired by Club Penguin. Uses touchOSC on iphone/android to control 2nd player.
 First player to 5 points wins! Players can pick up guns that drop down from middle. 
 
